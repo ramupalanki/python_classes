@@ -70,38 +70,6 @@ The program displays:
 4. The updated annual salary.
 5. A final employee summary.
 
-## GitHub Submission
-
-After testing the project locally:
-
-```bash
-git init
-git add .
-git commit -m "Initial Employee Management System"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/employee-management-system.git
-git push -u origin main
-```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 Make the GitHub repository **Public** before submitting the repository URL.
 
-## YouTube Video Checklist
-
-Explain these sections in your video:
-
-1. Problem statement
-2. Project structure
-3. Employee class
-4. Constructor and instance attributes
-5. `display_employee_info()`
-6. `update_salary()`
-7. `calculate_annual_salary()`
-8. Creating five Employee objects
-9. Storing objects in a list
-10. Using a `for` loop
-11. Running the program
-12. Explaining the output
-13. Demonstrating the salary update
-14. Showing the GitHub repository
